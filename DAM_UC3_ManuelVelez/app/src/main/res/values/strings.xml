@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DAM_UC3_ManuelVelez</string>
+    <string name="Button_Entrar">Entrar</string>
+    <string name="Text_CorreoElectronico" />
+    <string name="Text_Contraseña" />
+    <string name="CheckBox_CerrarSesion">No Cerrar sesión</string>
+    <string name="Text_Nombre" />
+    <string name="Text_Apellidos" />
+    <string name="RadioGroup_Mujer">Mujer</string>
+    <string name="RadioGroup_Hombre">Hombre</string>
+    <string name="Text_DiadeNacimiento" />
+    <string name="Text_MesdeNacimiento" />
+    <string name="Text_AñodeNacmiento" />
+    <string name="Button_Registrate">Registrate</string>
+</resources>
